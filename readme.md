@@ -1,3 +1,4 @@
 # Exercício 2 - if/else
 
 Tive muitas dificuldades na realização deste exercício. Mesmo após finalizar o trabalho final, não posso dizer com certeza que conseguiria utilizar o if/else sem copiar e alterar um exemplo feito previamente. Assim, apesar de compreender a função desta ferramenta e de a conseguir utilizar dentro de certos limites, concluo que não atingi o nível de aprendizagem desejado.
+Utilizei o código do exemplo presente na aula 3, em que  a cor do círculo no centro do ecrã muda de acordo com a posição do rato. Desenhei os diferentes quads com base no conhecimento adquirido com o exercício anterior, dando-lhes nomes para manter a organização. Considero que houve falta de originalidade da minha parte relativamente à minha solução final, mas não sinto que fosse capaz de fazer algo mais complexo.
